@@ -1,15 +1,12 @@
 # Sawana Labs
 
-Sawana Labs (`SawanaLabs` on GitHub) builds AI agent demos, automation tools, and experiments.
+Sawana Labs (`SawanaLabs` on GitHub) is exploring how one person and AI agents can build and run projects together.
 
-## Start with Agent Demos
+Our projects live here. We're trying out agents as collaborators and maintainers.
 
-[Agent Demos](https://github.com/SawanaLabs/agent-demos) is a collection of deployable AI agent examples and a shadcn registry for Next.js projects.
+## Projects
 
-Explore the [live demo gallery](https://agent-demos.hsawana9.com/) or use the [registry guide](https://agent-demos.hsawana9.com/registry-guide) to start a project.
-
-## More projects
-
+- [Agent Demos](https://github.com/SawanaLabs/agent-demos). Deployable AI agent examples and a shadcn registry for Next.js. Explore the [live demos](https://agent-demos.hsawana9.com/) or read the [registry guide](https://agent-demos.hsawana9.com/registry-guide).
 - [Phone Automation Agent](https://github.com/SawanaLabs/phone-automation-agent)
 - [Minimal Skill Evolver](https://github.com/SawanaLabs/minimal-skill-evolver)
 
